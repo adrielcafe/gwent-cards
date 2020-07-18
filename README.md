@@ -1,4 +1,4 @@
-![Game Version](https://img.shields.io/badge/Game%20Version-7.0.2-yellow?style=for-the-badge) 
+![Game Version](https://img.shields.io/github/v/release/adrielcafe/gwent-cards?color=yellow&style=for-the-badge) 
 
 All cards from [GWENT: The Witcher Card Game](https://www.playgwent.com/invite-a-friend/K0QX78TVLX)!
 * 980 cards front
