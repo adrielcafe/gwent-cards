@@ -1,7 +1,7 @@
-![Game Version](https://img.shields.io/github/v/release/adrielcafe/gwent-cards?color=yellow&style=for-the-badge) 
+![Game Version](https://img.shields.io/github/v/release/adrielcafe/gwent-cards?color=yellow&label=Gwent&style=for-the-badge) 
 
 All cards from [GWENT: The Witcher Card Game](https://www.playgwent.com/invite-a-friend/K0QX78TVLX)!
-* 980 cards front
+* 986 cards front
 * 40 cards back
 
 They were extracted from the game files and converted to WebP format. 
