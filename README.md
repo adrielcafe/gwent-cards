@@ -1,14 +1,14 @@
 ![Game Version](https://img.shields.io/badge/Game%20Version-7.0.2-yellow?style=for-the-badge) 
 
-All cards from GWENT: The Witcher Card Game!
-* 980 card front
-* 40 card back
+All cards from [GWENT: The Witcher Card Game](https://www.playgwent.com/invite-a-friend/K0QX78TVLX)!
+* 980 cards front
+* 40 cards back
 
 They were extracted from the game files and converted to WebP format. 
 * Original images have 100% quality (lossless encoding)
 * Thumbnail images have 90% quality
 
----
+## Disclaimer
 
 These images belongs to [CD PROJEKT RED](https://en.cdprojektred.com/). Make sure to check out the [Fan Content Guidelines](https://www.playgwent.com/en/fan-content) and [User Agreement](https://regulations.cdprojektred.com/en/user_agreement) before using them!
 
