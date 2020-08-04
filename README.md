@@ -2,7 +2,7 @@
 
 All cards from [GWENT: The Witcher Card Game](https://www.playgwent.com/invite-a-friend/K0QX78TVLX)!
 * 986 cards front
-* 40 cards back
+* 45 cards back
 
 They were extracted from the game files and converted to WebP format. 
 * Original images have 100% quality (lossless encoding)
